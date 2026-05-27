@@ -23,17 +23,6 @@ GestureMouse Pro transforms hand movements into smooth mouse interactions includ
 
 ---
 
-# 📸 Demo
-
-> Add screenshots or GIFs here after uploading your project demo.
-
-Example:
-- Cursor movement
-- Drag mode
-- Scroll mode
-- Dashboard overlay
-
----
 
 # 🚀 Quick Start
 
